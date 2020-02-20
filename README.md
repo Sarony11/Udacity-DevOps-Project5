@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![Sarony11](https://circleci.com/github/sarony11/Udacity-DevOps-Project5.svg?style=svg](https://app.circleci.com/jobs/github/Sarony11/Udacity-DevOps-Project5)
 
 ## Project Overview
 
