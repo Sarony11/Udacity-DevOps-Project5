@@ -10,6 +10,7 @@ dockerpath=sarony11/udacityproject5:lastest
 
 # Step 2:  
 # Authenticate & tag
+docker tag 2402f59fc127 localhost:80/api:latest
 echo "Docker ID and Image: $dockerpath"
 
 # Step 3:
