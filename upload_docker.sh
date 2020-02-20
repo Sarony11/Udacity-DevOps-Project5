@@ -6,7 +6,7 @@
 # Step 1:
 # Create dockerpath
 # dockerpath=<your docker ID/path>
-dockerpath=sarony11/udacityproject5:tagname
+dockerpath=sarony11/udacityproject5:lastest
 
 # Step 2:  
 # Authenticate & tag
