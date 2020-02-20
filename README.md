@@ -1,4 +1,4 @@
-[![Sarony11](https://circleci.com/github/sarony11/Udacity-DevOps-Project5.svg?style=svg](https://app.circleci.com/jobs/github/Sarony11/Udacity-DevOps-Project5)]
+[![Sarony11](https://circleci.com/github/Sarony11/Udacity-DevOps-Project5.svg?style=svg](https://app.circleci.com/jobs/github/Sarony11/Udacity-DevOps-Project5)
 
 ## Project Overview
 
