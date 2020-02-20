@@ -40,3 +40,14 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 * Setup and Configure Kubernetes locally
 * Create Flask app in Container
 * Run via kubectl
+
+## Files:
+* app.py: python given app
+* Dockerfile: Setup of the Docker continer for `./run_docker.sh`
+* make_prediction.sh: Posts the input for th sklearn model trough a Flask endpoint /predict
+* Makefile: sets up the environment .devops and dependencies.
+* requirements.txt: modules required by app.py to work
+* run_docker.sh: create and run the Dockerfile
+* upload_docker.sh: upload docker image to Dockerhub
+* run_kubernetes.sh: creates and executes the docker image in kubernetes locally
+* output_txt_files: output needed from executing make_prediction for `./run_docker.sh` and `./run_kubernetes.sh`
