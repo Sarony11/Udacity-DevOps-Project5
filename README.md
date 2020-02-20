@@ -1,5 +1,4 @@
-<include a CircleCI status badge, here>
-[![Sarony11](https://circleci.com/gh/Sarony11/Udacity-DevOps-Project5.svg?style=svg](https://circleci.com/gh/Sarony11/workflows/Udacity-DevOps-Project5?pipelines-ui-opt-out)
+[![Sarony11](https://circleci.com/gh/Sarony11/Udacity-DevOps-Project5.svg?style=svg)](https://circleci.com/gh/Sarony11/workflows/Udacity-DevOps-Project5?pipelines-ui-opt-out)
 
 ## Project Overview
 
